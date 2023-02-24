@@ -839,7 +839,7 @@ footer .header_social li a {
     border: 2px solid #fff;
 }
 .CF7Wrp .wpcf7-form-control {
-    padding: 13px 20px;
+    padding: 12px 20px;
     border-radius: 30px;
     -webkit-appearance: none;
     outline: none;
@@ -860,6 +860,9 @@ footer .header_social li a {
     background-color: #3A7AC8;
     cursor: pointer;
     color: #fff;
+}
+.CF7Wrp textarea.wpcf7-form-control{
+    height: 70px;
 }
 .Popup1 .CF7Wrp .wpcf7-form-control.wpcf7-submit{
     background-color: #6C6C6C;;
