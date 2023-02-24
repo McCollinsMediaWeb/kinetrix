@@ -837,22 +837,7 @@ footer .header_social li a {
     transition: 00.4s;
     border: 2px solid #fff;
 }
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=color], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=date], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=datetime-local], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=datetime], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=email], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=month], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=number], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=password], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=search], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=tel], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=text], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=time], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=url], 
-.ContactFrm1 .gform_wrapper.gravity-theme input[type=week], 
-.ContactFrm1 .gform_wrapper.gravity-theme select, 
-.ContactFrm1 .gform_wrapper.gravity-theme textarea {
+.ContactFrm1 .wpcf7-form-control {
     padding: 13px 20px;
     border-radius: 30px;
     -webkit-appearance: none;
@@ -875,6 +860,7 @@ footer .header_social li a {
         border-radius: 30px;
         transition: 00.4s;
         border: 2px solid #fff;
+        margin-left: 0;
     }
     .mobile-only {
         display: block;
