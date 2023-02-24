@@ -851,8 +851,9 @@ footer .header_social li a {
     border-radius: 30px;
 }
 .intl-tel-input {
-    position: relative;
-    display: block;
+    position: relative !important;
+    display: block !important;
+    width: 100% !important;
 }
 @media only screen and (max-width: 1000px) {
     .Popup1 {
