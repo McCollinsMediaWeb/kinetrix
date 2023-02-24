@@ -818,25 +818,39 @@ footer .header_social li a {
     margin-left: 0;
 }
 
+
+
+.Popup1 .ContactFrm1 {
+    padding-left: 0px;
+}
 .Popup1 {
     padding: 30px;
-    background-color: #3A7AC8;
+    background-color: #97C6CA;
     position: fixed;
     bottom: -200%;
-    left: 0;
-    width: 100%;
+    left: 50%;
+    width: 500px;
+    margin-left: -250px;
     z-index: 992;
     min-height: 50vh;
     border-radius: 30px;
     transition: 00.4s;
     border: 2px solid #fff;
 }
-
-.Popup1 .ContactFrm1 {
-    padding-left: 0px;
-}
-
 @media only screen and (max-width: 1000px) {
+    .Popup1 {
+        padding: 30px;
+        background-color: #3A7AC8;
+        position: fixed;
+        bottom: -200%;
+        left: 0;
+        width: 100%;
+        z-index: 992;
+        min-height: 50vh;
+        border-radius: 30px;
+        transition: 00.4s;
+        border: 2px solid #fff;
+    }
     .mobile-only {
         display: block;
     }
