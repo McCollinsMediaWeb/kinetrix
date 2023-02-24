@@ -867,6 +867,18 @@ footer .header_social li a {
 .Popup1 .CF7Wrp .wpcf7-form-control.wpcf7-submit{
     background-color: #6C6C6C;;
 }
+.CF7Wrp ::placeholder {
+    color: #6C6C6C;
+    opacity: 1; /* Firefox */
+  }
+  
+  .CF7Wrp :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #6C6C6C;
+  }
+  
+  .CF7Wrp ::-ms-input-placeholder { /* Microsoft Edge */
+   color: #6C6C6C;
+  }
 @media only screen and (max-width: 1000px) {
     .Popup1 {
         padding: 30px;
