@@ -640,6 +640,7 @@ ul {
 
 .ContBoxT2 {
     font-size: 18px;
+    margin-bottom: 20px;
 }
 
 .contContent .row {
@@ -1131,6 +1132,7 @@ footer .header_social li a {
     }
     .ContBoxT2 {
         font-size: 16px;
+        margin-bottom: 15px;
     }
     .FooterDesc {
         margin: 15px 0px;
