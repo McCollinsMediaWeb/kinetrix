@@ -746,7 +746,7 @@ footer .header_social li a {
     backdrop-filter: blur(9px);
     height: 100%;
     background: #0000004f;
-    z-index: 99;
+    z-index: 100000;
     display: flex;
     align-items: center;
     height: 100%;
@@ -823,9 +823,8 @@ footer .header_social li a {
     background-color: #3A7AC8;
     position: fixed;
     bottom: -200%;
-    left: 50%;
-    width: 500px;
-    margin-left: -250px;
+    left: 0;
+    width: 100%;
     z-index: 992;
     min-height: 50vh;
     border-radius: 30px;
