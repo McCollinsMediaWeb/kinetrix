@@ -855,6 +855,14 @@ footer .header_social li a {
     display: block !important;
     width: 100% !important;
 }
+.CF7Wrp .wpcf7-form-control.wpcf7-submit{
+    background-color: #3A7AC8;
+    cursor: pointer;
+    color: #fff;
+}
+.Popup1 .CF7Wrp .wpcf7-form-control.wpcf7-submit{
+    background-color: #6C6C6C;;
+}
 @media only screen and (max-width: 1000px) {
     .Popup1 {
         padding: 30px;
