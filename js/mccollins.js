@@ -1,8 +1,8 @@
 $(document).ready(
     function(){
         windowHeight = jQuery(window).innerHeight();
-  
-        jQuery('.mainbannerImg').css('height', (windowHeight)+'px');
+        HeaderHeight = jQuery("header").innerHeight();
+        jQuery('.mainbannerImg').css('height', (windowHeight-HeaderHeight)+'px');
       
         jQuery(window).scroll(function () {
           var scroll = jQuery(window).scrollTop();
@@ -24,14 +24,23 @@ $(document).ready(
             infinite: true,
             slidesToShow: 4,
             slidesToScroll: 1,
-            dots: true
+            dots: true,
+            responsive: [
+                {
+                  breakpoint: 1024,
+                  settings: {
+                    slidesToShow: 1,
+                    centerMode: true
+                  }
+                }
+            ]
           });
           $('.TestimonialSlick').slick({
             infinite: true,
             slidesToShow: 1,
             slidesToScroll: 1,
             dots: true,
-            autoplay: true,
+            autoplay: false,
             autoplaySpeed: 2000,
             fade: true,
           });
