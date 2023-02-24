@@ -837,7 +837,7 @@ footer .header_social li a {
     transition: 00.4s;
     border: 2px solid #fff;
 }
-.ContactFrm1 .wpcf7-form-control {
+.CF7Wrp .wpcf7-form-control {
     padding: 13px 20px;
     border-radius: 30px;
     -webkit-appearance: none;
@@ -847,7 +847,7 @@ footer .header_social li a {
     display: block;
     border: 0px solid #e4e4e4;
 }
-.ContactFrm1 .iti--separate-dial-code .iti__selected-flag {
+.CF7Wrp .iti--separate-dial-code .iti__selected-flag {
     border-radius: 30px;
 }
 .intl-tel-input {
