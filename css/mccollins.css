@@ -885,6 +885,40 @@ footer .header_social li a {
   .MainContent {
     overflow-x: hidden;
 }
+
+.OfficeTimeWrp {
+    padding: 60px;
+    background-color: #3A7AC8;
+}
+.OtT1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.OtT2 {
+    background-color: #fff;
+    width: 100%;
+    height: 3px;
+    display: block;
+    margin: 20px 0px;
+}
+.OtT3 {
+    font-style: italic;
+    font-size: 20px;
+}
+.OtHr1 {
+    padding: 20px;
+    border-radius: 50px;
+    background-color: #6C6C6C;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 @media only screen and (max-width: 1000px) {
     .mt-0-mobile{
         margin-top: 0 !important;
