@@ -879,6 +879,9 @@ footer .header_social li a {
   .CF7Wrp ::-ms-input-placeholder { /* Microsoft Edge */
    color: #6C6C6C;
   }
+  .MainContent {
+    overflow-x: hidden;
+}
 @media only screen and (max-width: 1000px) {
     .mt-0-mobile{
         margin-top: 0 !important;
@@ -946,9 +949,7 @@ footer .header_social li a {
         font-size: 11px;
     }
 
-    .MainContent {
-        overflow: hidden;
-    }
+    
 
     .MenuImage {
         max-width: 25px;
