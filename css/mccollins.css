@@ -871,7 +871,9 @@ footer .header_social li a {
     color: #6C6C6C;
     opacity: 1; /* Firefox */
   }
-  
+  .wpcf7-form-control{
+    color: #6C6C6C !important;
+  }
   .CF7Wrp :-ms-input-placeholder { /* Internet Explorer 10-11 */
     color: #6C6C6C;
   }
