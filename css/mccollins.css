@@ -925,6 +925,9 @@ footer .header_social li a {
 .OtHourWrp{
     margin-top: 20px;
 }
+.intl-tel-input .country-list .country-name, .intl-tel-input .country-list .flag-box{
+color: #6C6C6C !important;
+}
 @media only screen and (max-width: 1000px) {
     .mt-0-mobile{
         margin-top: 0 !important;
