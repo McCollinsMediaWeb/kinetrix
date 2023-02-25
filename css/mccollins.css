@@ -919,6 +919,12 @@ footer .header_social li a {
     justify-content: center;
     text-align: center;
 }
+.OfficeTime{
+    color: #fff;
+}
+.OtHourWrp{
+    margin-top: 20px;
+}
 @media only screen and (max-width: 1000px) {
     .mt-0-mobile{
         margin-top: 0 !important;
