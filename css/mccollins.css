@@ -1222,4 +1222,11 @@ footer .header_social li a {
     footer .Btn1:after{
         top: 8px;
     }
+    .OtT3 {
+        font-style: italic;
+        font-size: 16px;
+    }
+    .OtHr1{
+        margin-bottom: 10px;
+    }
 }
