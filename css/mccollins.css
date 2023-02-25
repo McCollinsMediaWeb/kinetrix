@@ -860,7 +860,7 @@ footer .header_social li a {
 .CF7Wrp .wpcf7-form-control.wpcf7-submit{
     background-color: #3A7AC8;
     cursor: pointer;
-    color: #fff;
+    color: #fff !important;
 }
 .CF7Wrp textarea.wpcf7-form-control{
     height: 70px;
