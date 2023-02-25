@@ -1020,6 +1020,8 @@ color: #6C6C6C !important;
 
     .MainLogo {
         max-width: 120px;
+        position: relative;
+        bottom: -3px;
     }
 
     .headerMiddleBar {
