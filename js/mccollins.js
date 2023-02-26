@@ -22,9 +22,10 @@ $(document).ready(
           });
 
           jQuery(".popup2-trigger").click(function () {
+            console.log($(this).children(".ServiceItemT3").text());
             jQuery("body").toggleClass("Popup2active");
-            jQuery(".p2HeadText").text($(this).children(".ServiceItemT2").html());
-            jQuery(".p2mainContent").text($(this).children(".ServiceItemT3").html());
+            jQuery(".p2HeadText").text($(this).children(".ServiceItemT2").text());
+            jQuery(".p2mainContent").text($(this).children(".ServiceItemT3").text());
           });
           jQuery(".OverLay2").click(function () {
             jQuery("body").toggleClass("Popup2active");
