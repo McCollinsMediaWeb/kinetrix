@@ -23,8 +23,8 @@ $(document).ready(
 
           jQuery(".popup2-trigger").click(function () {
             jQuery("body").toggleClass("Popup2active");
-            jQuery(".p2HeadText").text($(this).find("ServiceItemT2").text());
-            jQuery(".p2mainContent").text($(this).find("ServiceItemT3").text());
+            jQuery(".p2HeadText").text($(this).children("ServiceItemT2").text());
+            jQuery(".p2mainContent").text($(this).children("ServiceItemT3").text());
           });
           jQuery(".OverLay2").click(function () {
             jQuery("body").toggleClass("Popup2active");
