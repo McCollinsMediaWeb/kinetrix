@@ -859,7 +859,7 @@ footer .header_social li a {
     width: 100% !important;
 }
 .CF7Wrp .wpcf7-form-control.wpcf7-submit{
-    background-color: #3A7AC8;
+    background-color: #3A7AC8 !important;
     cursor: pointer;
     color: #fff !important;
 }
