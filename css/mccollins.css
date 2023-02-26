@@ -867,7 +867,7 @@ footer .header_social li a {
     height: 70px;
 }
 .Popup1 .CF7Wrp .wpcf7-form-control.wpcf7-submit{
-    background-color: #6C6C6C;;
+    background-color: #6C6C6C !important;
 }
 .CF7Wrp ::placeholder {
     color: #6C6C6C;
