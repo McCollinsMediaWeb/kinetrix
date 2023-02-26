@@ -20,6 +20,18 @@ $(document).ready(
             jQuery("body").toggleClass("activeform");
             jQuery("body").removeClass("pop3active");
           });
+
+          jQuery(".popup2-trigger").click(function () {
+            jQuery("body").toggleClass("Popup2active");
+            jQuery(".p2HeadText").text($(this).data("title"));
+            jQuery(".p2mainContent").text($(this).data("descriptions"));
+          });
+          jQuery(".OverLay2").click(function () {
+            jQuery("body").toggleClass("Popup2active");
+            jQuery(".p2HeadText").text("Read More Content Looking Empty");
+            jQuery(".p2mainContent").text($(this).data("Please click on any Read More Button"));
+          });
+          
         $('.multiple-items').slick({
             infinite: true,
             slidesToShow: 4,
