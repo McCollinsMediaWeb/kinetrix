@@ -848,6 +848,7 @@ footer .header_social li a {
     display: block;
     border: 0px solid #e4e4e4;
     font-weight: 500;
+    background-color: #fff !important;
 }
 .CF7Wrp .iti--separate-dial-code .iti__selected-flag {
     border-radius: 30px;
@@ -1233,5 +1234,8 @@ color: #6C6C6C !important;
     }
     .OtHr1{
         margin-bottom: 10px;
+    }
+    .CF7Wrp .wpcf7-form-control {
+    padding: 10px 20px;
     }
 }
