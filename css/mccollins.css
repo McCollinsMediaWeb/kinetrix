@@ -962,7 +962,7 @@ color: #6C6C6C !important;
 }
 .p2HeadText {
     font-weight: 900;
-    font-size: 25px;
+    font-size: 23px;
     text-align: center;
     color: #fff;
     padding-bottom: 10px;
@@ -972,12 +972,15 @@ color: #6C6C6C !important;
 }
 .p2mainContent {
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     color: #fff;
     font-style: italic;
     text-transform: capitalize;
 }
-
+.Popup2 .Btn1{
+    background-color: #6C6C6C;
+    margin-top: 20px;
+}
 @media only screen and (max-width: 1000px) {
     .Popup2 {
         left: 0;
