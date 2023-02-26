@@ -1071,11 +1071,11 @@ color: #6C6C6C !important;
     }
 
     .Htxt1 {
-        font-size: 32px;
+        font-size: 30px;
     }
 
     .Htxt2 {
-        font-size: 17px;
+        font-size: 16px;
     }
 
     .MainLogo {
@@ -1100,18 +1100,18 @@ color: #6C6C6C !important;
     }
 
     .Abt1 {
-        font-size: 24px;
+        font-size: 22px;
         margin-bottom: 15px;
         margin-top: 15px;
     }
 
     .Abt2 {
-        font-size: 16px;
+        font-size: 15px;
         margin-bottom: 10px;
     }
 
     .Abt3 {
-        font-size: 16px;
+        font-size: 15px;
         margin-bottom: 10px;
     }
 
@@ -1124,12 +1124,12 @@ color: #6C6C6C !important;
     }
 
     .St1 {
-        font-size: 25px;
+        font-size: 22px;
         margin-bottom: 15px;
     }
 
     .St2 {
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 500;
         margin-bottom: 15px;
     }
@@ -1160,8 +1160,8 @@ color: #6C6C6C !important;
     .HdrTp1CL {
         flex: 0 0 100%;
         max-width: 100%;
-        font-size: 25px;
-        margin-bottom: 15px;
+        font-size: 22px;
+        margin-bottom: 10px;
     }
 
     .HdrTp1CR {
@@ -1184,7 +1184,7 @@ color: #6C6C6C !important;
         display: none;
     }
     .HdrTp1CR{
-        font-size: 16px;
+        font-size: 15px;
     }
     .HdrTp1 {
         margin-bottom: 20px;
@@ -1227,7 +1227,7 @@ color: #6C6C6C !important;
         margin-bottom: 5px;
     }
     .TestDesc{
-        font-size: 16px;
+        font-size: 15px;
     }
     .Commat{
         margin-bottom: 10px;
@@ -1250,7 +1250,7 @@ color: #6C6C6C !important;
         padding: 60px 0px;
     }
     .ContTxt2 {
-        font-size: 16px;
+        font-size: 15px;
         margin-bottom: 20px;
     }
     .ContBoxT1 {
@@ -1258,7 +1258,7 @@ color: #6C6C6C !important;
         margin-bottom: 10px;
     }
     .ContBoxT2 {
-        font-size: 16px;
+        font-size: 15px;
         margin-bottom: 15px;
     }
     .FooterDesc {
@@ -1296,5 +1296,26 @@ color: #6C6C6C !important;
     }
     .CF7Wrp .wpcf7-form-control {
     padding: 10px 20px;
+    }
+    .ServiceItemT2{
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+    .ServiceItemT3 {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    .Jrt1 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .Jrt2 {
+        font-size: 15px;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+    .Row1cM{
+        font-size: 15px;
+        margin-bottom: 7px;
     }
 }
