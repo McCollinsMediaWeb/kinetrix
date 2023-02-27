@@ -156,7 +156,7 @@ ul {
 
 .Htxt1 {
     color: #fff;
-    font-size: 50px;
+    font-size: 40px;
     line-height: 1.2;
     margin-bottom: 10px;
     font-weight: 600;
@@ -190,10 +190,10 @@ ul {
 }
 
 .Abt1 {
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
     color: #3A7AC8;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
@@ -985,6 +985,9 @@ color: #6C6C6C !important;
 .Popup2 .Btn1{
     background-color: #6C6C6C;
     margin-top: 30px;
+}
+.HeroBannerContentWidth{
+    max-width: 1200px;
 }
 @media only screen and (max-width: 1000px) {
     .Popup2 {
