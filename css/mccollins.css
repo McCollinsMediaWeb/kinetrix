@@ -1309,6 +1309,7 @@ color: #6C6C6C !important;
     .ServiceItemT3 {
         font-size: 15px;
         margin-bottom: 0;
+        display: block;
     }
     .Jrt1 {
         font-size: 22px;
