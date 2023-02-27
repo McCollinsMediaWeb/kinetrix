@@ -382,7 +382,7 @@ ul {
 .HdrTp1CL {
     flex: 0 0 50%;
     max-width: 50%;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
     color: #3A7AC8;
     text-transform: uppercase;
@@ -1079,7 +1079,7 @@ color: #6C6C6C !important;
     }
 
     .Htxt1 {
-        font-size: 30px;
+        font-size: 23px;
     }
 
     .Htxt2 {
