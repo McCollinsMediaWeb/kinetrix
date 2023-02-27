@@ -156,7 +156,7 @@ ul {
 
 .Htxt1 {
     color: #fff;
-    font-size: 40px;
+    font-size: 36px;
     line-height: 1.2;
     margin-bottom: 10px;
     font-weight: 600;
@@ -190,7 +190,7 @@ ul {
 }
 
 .Abt1 {
-    font-size: 40px;
+    font-size: 36px;
     font-weight: 600;
     color: #3A7AC8;
     margin-bottom: 15px;
@@ -198,7 +198,7 @@ ul {
 }
 
 .Abt2 {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 500;
     color: #3A7AC8;
     margin-bottom: 20px;
@@ -206,7 +206,7 @@ ul {
 }
 
 .Abt3 {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 500;
     margin-bottom: 20px;
 }
@@ -220,7 +220,7 @@ ul {
 }
 
 .St1 {
-    font-size: 40px;
+    font-size: 36px;
     font-weight: 600;
     color: #3A7AC8;
     margin-bottom: 15px;
@@ -228,9 +228,9 @@ ul {
 }
 
 .St2 {
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 500;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .ServiceItemT4 {
@@ -249,7 +249,7 @@ ul {
     margin-bottom: 20px;
     transition: 0.3s;
     cursor: pointer;
-    min-height: 430px;
+    min-height: 395px;
     padding-bottom: 50px;
     position: relative;
 }
@@ -259,7 +259,7 @@ ul {
 }
 
 .ServiceItemT2 {
-    font-size: 17px;
+    font-size: 16px;
     color: #3A7AC8;
     font-weight: 600;
     text-transform: uppercase;
@@ -267,7 +267,7 @@ ul {
 }
 
 .ServiceItemT3 {
-    font-size: 17px;
+    font-size: 16px;
     margin-bottom: 15px;
     display: -webkit-box;
     -webkit-line-clamp: 8;
@@ -363,16 +363,16 @@ ul {
 }
 
 .Jrt1 {
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
 .Jrt2 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .HdrTp1C {
@@ -391,7 +391,7 @@ ul {
 .HdrTp1CR {
     flex: 0 0 50%;
     max-width: 50%;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
 }
 
