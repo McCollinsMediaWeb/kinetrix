@@ -198,7 +198,7 @@ ul {
 }
 
 .Abt2 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
     color: #3A7AC8;
     margin-bottom: 20px;
@@ -206,7 +206,7 @@ ul {
 }
 
 .Abt3 {
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 500;
     margin-bottom: 20px;
 }
@@ -220,10 +220,10 @@ ul {
 }
 
 .St1 {
-    font-size: 45px;
+    font-size: 40px;
     font-weight: 600;
     color: #3A7AC8;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
