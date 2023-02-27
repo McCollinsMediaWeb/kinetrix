@@ -269,6 +269,11 @@ ul {
 .ServiceItemT3 {
     font-size: 17px;
     margin-bottom: 15px;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
 .ServiceItem:hover {
