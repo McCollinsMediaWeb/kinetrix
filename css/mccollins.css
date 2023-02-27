@@ -996,6 +996,9 @@ color: #6C6C6C !important;
     .FooterLogo img {
         min-width: 190px;
     }
+    .border-3{
+        border-radius: 30px;
+    }
 }
 @media only screen and (max-width: 1000px) {
     .Popup2 {
