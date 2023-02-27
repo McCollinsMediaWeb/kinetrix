@@ -435,7 +435,7 @@ ul {
 
 .Row1 {
     background-color: #F7F5F5;
-    padding: 25px 15px;
+    padding: 20px 15px;
     margin-bottom: 20px;
 }
 
@@ -622,7 +622,7 @@ ul {
 
 .ContTxt1 {
     font-weight: 600;
-    font-size: 50px;
+    font-size: 45px;
     margin-bottom: 20px;
 }
 
@@ -640,11 +640,11 @@ ul {
 .ContBoxT1 {
     font-size: 25px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .ContBoxT2 {
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 20px;
 }
 
